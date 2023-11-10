@@ -1,0 +1,33 @@
+.p-class {
+    color: #E637BF;
+}
+
+.h1-class {
+    color: #DACC3E;
+    font: 30px;
+}
+
+.h2-class {
+    color: #D3C1D2;
+    font-family: 'Courier New' ;
+}
+
+
+.h3-class {
+    color: #55D6BE;
+    display: block;
+}
+
+.img-class {
+    display: block;
+}
+
+.button-class {
+    color: #000000;
+    background-color: #B7C9A7;
+}
+
+.body-class {
+    text-align: center;
+    background-color: #595457;
+}
